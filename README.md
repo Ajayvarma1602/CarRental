@@ -6,7 +6,7 @@ A modern and fully functional **Car Rental Application** built with the MERN sta
 
 ## 🔗 Live Links
 
-- 🌐 **Frontend (React/Vite)**: https://car-rental-ajays-projects-933b0779.vercel.app/
+- 🌐 **Frontend (React/Vite)**: https://car-rental-seven-flax.vercel.app/
 ---
 
 ## 🧰 Tech Stack
