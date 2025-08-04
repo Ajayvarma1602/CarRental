@@ -7,7 +7,9 @@ A modern and fully functional **Car Rental Application** built with the MERN sta
 ## 🔗 Live Links
 
 - 🌐 **Frontend (React/Vite)**: https://car-rental-seven-flax.vercel.app/
+  
 **Figma Link**: https://www.figma.com/design/fPLpTyQ0VY0jExjoSkB9GB/CarRental-Figma?node-id=1-399&t=a0L9Dh5MEFAIVNms-0
+
 ---
 
 ## 🧰 Tech Stack
